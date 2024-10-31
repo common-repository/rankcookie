@@ -1,0 +1,199 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: rankcookie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-15 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.4.4\n"
+"X-Domain: rankcookie"
+
+#: templates/cookie-banner.php:21
+msgid "/imprint"
+msgstr ""
+
+#: templates/cookie-banner.php:19
+msgid "/privacy"
+msgstr ""
+
+#: templates/cookie-banner.php:13
+msgid "Accept all"
+msgstr ""
+
+#: settings/rankcookie-settings.php:24
+msgid "Additional permissions"
+msgstr ""
+
+#: templates/cookie-banner.php:17
+msgid "Back"
+msgstr ""
+
+#: settings/rankcookie-settings.php:27
+msgid "Change URL slugs"
+msgstr ""
+
+#: settings/rankcookie-settings.php:30
+msgid "Cookie lifetime"
+msgstr ""
+
+#: settings/rankcookie-settings.php:55
+msgid "Description"
+msgstr ""
+
+#: settings/rankcookie-settings.php:59
+msgid ""
+"Description of the additional consent, e.g. \"If cookies are accepted from "
+"external media, access to this content no longer requires manual consent.\""
+msgstr ""
+
+#: templates/cookie-banner.php:33
+msgid "Essential"
+msgstr ""
+
+#: templates/cookie-banner.php:34
+msgid ""
+"Essential cookies enable basic functions and are necessary for the website "
+"to function properly."
+msgstr ""
+
+#: settings/rankcookie-settings.php:21
+msgid "Google Tag Manager"
+msgstr ""
+
+#: settings/rankcookie-settings.php:37
+msgid "Google Tag Manger ID"
+msgstr ""
+
+#: settings/rankcookie-settings.php:144
+msgid ""
+"Here you can change the lifetime of the cookie (time until the cookie "
+"expires)."
+msgstr ""
+
+#: templates/cookie-banner.php:12
+msgid ""
+"Here you will find an overview of all cookies used. You can give your "
+"consent to all or only certain cookies."
+msgstr ""
+
+#: templates/cookie-banner.php:16
+msgid "Hide this message"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://rankeffect.de/"
+msgstr ""
+
+#: settings/rankcookie-settings.php:41
+msgid "Id of the form GTM-12334567"
+msgstr ""
+
+#: templates/cookie-banner.php:20 settings/rankcookie-settings.php:73
+msgid "Imprint"
+msgstr ""
+
+#: templates/cookie-banner.php:14
+msgid "Individual settings"
+msgstr ""
+
+#: settings/rankcookie-settings.php:82
+msgid "Lifetime"
+msgstr ""
+
+#: settings/rankcookie-settings.php:86
+msgid "Lifetime of the cookie in days. Default: 365 days"
+msgstr ""
+
+#: settings/rankcookie-settings.php:46
+msgid "Name"
+msgstr ""
+
+#: settings/rankcookie-settings.php:50
+msgid "Name of the additional permission, e.g. \"External media\""
+msgstr ""
+
+#: templates/cookie-banner.php:18 settings/rankcookie-settings.php:64
+msgid "Privacy"
+msgstr ""
+
+#: templates/cookie-banner.php:10
+msgid "Privacy settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "rankcookie"
+msgstr ""
+
+#. Author of the plugin
+msgid "rankeffect"
+msgstr ""
+
+#: templates/cookie-banner.php:15
+msgid "Save"
+msgstr ""
+
+#: settings/rankcookie-settings.php:219
+msgid "Save settings"
+msgstr ""
+
+#: settings/rankcookie-settings.php:198
+msgid "Settings saved"
+msgstr ""
+
+#: templates/cookie-banner.php:28
+msgid "Statistics"
+msgstr ""
+
+#: templates/cookie-banner.php:29
+msgid ""
+"Statistics cookies collect information anonymously. This information helps "
+"us to understand how our visitors use our website."
+msgstr ""
+
+#: settings/rankcookie-settings.php:111
+msgid ""
+"The GTM snippet is automatically inserted when the \"Google Tag Manger ID\" "
+"field is filled in and the required cookie consent of the user "
+"(\"statistics\") is available."
+msgstr ""
+
+#: settings/rankcookie-settings.php:133
+msgid ""
+"The URL slugs of the pages \"privacy\" and \"imprint\", which are linked "
+"from the cookie banner, can be changed here."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin provides a light weight cookie opt in with support for the "
+"google tag manager"
+msgstr ""
+
+#: settings/rankcookie-settings.php:77
+msgid "URL slug for the imprint page. Default: /imprint"
+msgstr ""
+
+#: settings/rankcookie-settings.php:68
+msgid "URL slug for the privacy page. Default: /privacy"
+msgstr ""
+
+#: templates/cookie-banner.php:11
+msgid ""
+"We use cookies on our website. Some of them are essential, while others help "
+"us to improve this website and your experience."
+msgstr ""
+
+#: settings/rankcookie-settings.php:122
+msgid ""
+"With this option you can obtain additional permissions via the cookie banner."
+" Include the name and a brief description of the permissions."
+msgstr ""
